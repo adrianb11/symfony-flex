@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "selection/error-logger-bundle": [
+      "1.0.0"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": false,
+  "_links": {
+    "repository": "github.com/adrianb11/symfony-flex",
+    "origin_template": "{package}:{version}@github.com/adrianb11/symfony-flex:main",
+    "recipe_template": "https://api.github.com/repos/adrianb11/symfony-flex/contents/{package_dotted}.{version}.json"
+  }
+}

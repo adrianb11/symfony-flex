@@ -1,0 +1,18 @@
+{
+  "manifests": {
+    "selection/error-logger-bundle": {
+      "manifest": {
+        "bundles": {
+          "Selection\\Bundle\\ErrorLoggerBundle\\ErrorLoggerBundle": [
+            "all"
+          ]
+        },
+        "post-install-output": [
+          "ERROR LOGGER INSTALLED"
+        ]
+      },
+      "files": [],
+      "ref": ""
+    }
+  }
+}
